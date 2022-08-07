@@ -1,0 +1,17 @@
+h1{
+    color:#ff0000;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background: linear-gradient(45deg ,red,cyan,blue);
+    padding: 50px;
+    border: 3px solid black;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
