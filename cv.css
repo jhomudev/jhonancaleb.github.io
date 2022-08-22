@@ -278,6 +278,7 @@ ul{
 @media screen and (max-width:888px) {
   .hoja{
     grid-template-columns: 1fr;
+    margin:10px;
   }
   .content{
     width: 70%;
