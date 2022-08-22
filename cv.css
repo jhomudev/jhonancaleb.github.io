@@ -283,4 +283,7 @@ ul{
   .content{
     width: 70%;
   }
+  .proyects .container a{
+    width:100%;
+  }
 }
