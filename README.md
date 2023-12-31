@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador con excelentes aptitudes de gestión y mantenimiento de proyectos. Orientado a la acción con gran capacidad para<br>comunicarse de forma eficaz con el público del sector tecnológico, administrativo y empresarial, con capacidad de adaptación a <br>todo tipo de entornos. En busca de una oportunidades laborales que me permitan aplicar y ampliar mis habilidades como <br>profesional.
+Desarrollador con excelentes aptitudes de gestión y mantenimiento de proyectos. Orientado a la acción con gran capacidad para comunicarse de forma eficaz con el público del sector tecnológico, administrativo y empresarial, con capacidad de adaptación a todo tipo de entornos. En busca de una oportunidades laborales que me permitan aplicar y ampliar mis habilidades como profesional.
 
 
 ## 🌐 Socials:
